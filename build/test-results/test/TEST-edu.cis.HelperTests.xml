@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.cis.HelperTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-02-25T11:24:33" hostname="Profs-MacBook-Pro.local" time="0.767">
+  <properties/>
+  <testcase name="ECDSATest" classname="edu.cis.HelperTests" time="0.114"/>
+  <testcase name="SHA256Test" classname="edu.cis.HelperTests" time="0.001"/>
+  <testcase name="HexAddressTest" classname="edu.cis.HelperTests" time="0.592"/>
+  <testcase name="NumToByteArrayTest" classname="edu.cis.HelperTests" time="0.015"/>
+  <testcase name="HexByteTest" classname="edu.cis.HelperTests" time="0.002"/>
+  <testcase name="CombineByteArraysTest" classname="edu.cis.HelperTests" time="0.001"/>
+  <testcase name="RIP160Test" classname="edu.cis.HelperTests" time="0.007"/>
+  <testcase name="HexAddressException" classname="edu.cis.HelperTests" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
